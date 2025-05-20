@@ -6,12 +6,6 @@ This repository contains a simple yet functional console-based banking system bu
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [How to Run](#how-to-run)
-- [Modules](#modules)
-- [Files](#files)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-
 ---
 
 ## Features
